@@ -1,0 +1,3 @@
+all stock photos found via https://www.pexels.com/
+
+downloaded the `SMALL` size for each once
